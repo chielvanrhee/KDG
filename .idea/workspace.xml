@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="" />
+    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="Commit by Chiel van Rhee">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/lang/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/LoadGenerator/Load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/Continent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/TestContinent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Leden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Lid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Soort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/TestLeden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/AutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/CoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/GeboorteTijden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Bewerkingen/TestBewerkingen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/FibonacciException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/SteenPapierSchaar/SteenPapierSchaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/StringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/CoinComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Portomonee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVier/NavSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Koppel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Persoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/Comperator/CompareObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weken/ToDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Opdrachten/Main.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,22 +76,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-2076656823">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="31" />
+          <entry key="java" value="24061" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="JAVA" value="24061" />
+          <entry key="PLAIN_TEXT" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="BoekOpdrachten" value="1" />
+          <entry key="OpdrachtTien" value="1" />
+          <entry key="OpdrachtTwee" value="1" />
+          <entry key="Portomonee" value="1" />
+          <entry key="java" value="279" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="279" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="4" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -32,63 +145,114 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Opdrachten/LoadGenerator/Load.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/TestPiloten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Opdrachten/Week2/EnumTester/EnumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Opdrachten/Week2/EnumTester/Color.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Opdrachten/Week2/Opdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Tijd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Vorm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Opdrachten/Week2/Opdrachten/Time/TestTime.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/TestVorm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="747" column="16" selection-start-line="747" selection-start-column="16" selection-end-line="747" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Piramide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zoneid</find>
+      <find>rectangle</find>
+      <find>static</find>
+      <find>yyyy</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,9 +260,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/Opdrachten/Main.java" />
-        <option value="$PROJECT_DIR$/src/Opdrachten/Week2/Opdrachten/Time/TestTime.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtEen/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtEen/Division.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtDrie/Division.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtTwee/Division.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtTwee/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/SteenPapierSchaar/SteenPapierSchaar.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/Bewerkingen/Bewerkingen.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/Bewerkingen/TestBewerkingen.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/Fibonacci/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/Fibonacci/FibonacciException.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/Siteopdrachten/Fibonacci/DemoLeonardo.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/Test/TestCollections.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtEen/IntList.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtEen/StringList.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTwee/HashInt.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTwee/Lottery.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTwee/Person.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTwee/Persons.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtDrie/Persons.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtVier/NavSet.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObject.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObjectTester.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtVijf/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZes/Gender.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZes/Koppel.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZes/Persoon.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZes/Personen.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/Test/ComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/Test/CompareObjects.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/Test/CompareObject.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/Test/Comperator/CompareObjects.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZeven/Gender.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZeven/Persoon.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtZeven/Personen.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTien/Coin.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTien/CoinComparator.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week5/BoekOpdrachten/OpdrachtTien/Portomonee.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week6/SiteOpdrachten/OpdrachtMandje/Mandje.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week6/SiteOpdrachten/OpdrachtMandje/Artikel.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week6/SiteOpdrachten/OpdrachtSet/Artikel.java" />
+        <option value="$PROJECT_DIR$/src/Opdrachten/Week6/SiteOpdrachten/OpdrachtSet/Mandje.java" />
+        <option value="$PROJECT_DIR$/src/Weken/Week6/SiteOpdrachten/OpdrachtSet/Mandje.java" />
+        <option value="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java" />
+        <option value="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" />
+        <option value="$PROJECT_DIR$/src/Weken/ToDo.java" />
+        <option value="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" />
       </list>
     </option>
   </component>
@@ -109,10 +321,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-871" />
-    <option name="width" value="1550" />
-    <option name="height" value="878" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1380" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -120,7 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -132,54 +343,194 @@
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="KDG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="KDG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="KDG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="Week2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="Contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="Formule1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="SiteBezoek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="StringsDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="Veelhoek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
+              <item name="Vorm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="AnonInner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="OuterInner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="OpdrachtDrie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="OpdrachtEen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="OpdrachtTwee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="OpdrachtVierVijf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Weken" type="462c0819:PsiDirectoryNode" />
+              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="OpdrachtZeven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544458672713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547666015614" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week5\BoekOpdrachten\OpdrachtZeven" />
+      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week5\BoekOpdrachten\OpdrachtDrie" />
+      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtVierVijf" />
+      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtDrie" />
+      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtTwee" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,23 +544,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTime">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="Application.Division">
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weken.D_ExceptionHandeling.BoekOpdrachten.OpdrachtVierVijf.Division" />
       <module name="KDG" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weken.D_ExceptionHandeling.BoekOpdrachten.OpdrachtVierVijf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formateur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.Formateur" />
+      <module name="KDG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.LocalTimeTest" />
+      <module name="KDG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LokaleTijden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.Time.LokaleTijden" />
+      <module name="KDG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.Time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opdrachten.Week2.Opdrachten.Time.TestTime" />
+      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.Time.TestTime" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Opdrachten.Week2.Opdrachten.Time.*" />
+          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +611,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LokaleTijden" />
+      <item itemvalue="Application.Formateur" />
+      <item itemvalue="Application.LocalTimeTest" />
       <item itemvalue="Application.TestTime" />
+      <item itemvalue="Application.Division" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Division" />
         <item itemvalue="Application.TestTime" />
+        <item itemvalue="Application.LocalTimeTest" />
+        <item itemvalue="Application.Formateur" />
+        <item itemvalue="Application.LokaleTijden" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +638,35 @@
       <option name="presentableId" value="Default" />
       <updated>1542816755973</updated>
       <workItem from="1542816757195" duration="1320000" />
+      <workItem from="1544464724525" duration="4099000" />
+      <workItem from="1544534981977" duration="1972000" />
+      <workItem from="1544630205625" duration="431000" />
+      <workItem from="1544704048029" duration="1239000" />
+      <workItem from="1544970549984" duration="3112000" />
+      <workItem from="1545058876998" duration="15087000" />
+      <workItem from="1545127904608" duration="2427000" />
+      <workItem from="1545218939698" duration="2137000" />
+      <workItem from="1545232350984" duration="312000" />
+      <workItem from="1546507840700" duration="12727000" />
+      <workItem from="1546590749409" duration="3518000" />
+      <workItem from="1546617301585" duration="71000" />
+      <workItem from="1546689070763" duration="10516000" />
+      <workItem from="1546803182144" duration="3999000" />
+      <workItem from="1546858031113" duration="5987000" />
+      <workItem from="1546878057460" duration="5744000" />
+      <workItem from="1546946981416" duration="1020000" />
+      <workItem from="1547199067793" duration="14209000" />
+      <workItem from="1547297339910" duration="11789000" />
+      <workItem from="1547384537805" duration="8287000" />
+      <workItem from="1547407129303" duration="6852000" />
+      <workItem from="1547460709836" duration="960000" />
+      <workItem from="1547465798585" duration="14186000" />
+      <workItem from="1547544646180" duration="4063000" />
+      <workItem from="1547638267786" duration="874000" />
+      <workItem from="1547648359087" duration="2847000" />
+      <workItem from="1547655034015" duration="1282000" />
+      <workItem from="1547657595682" duration="3764000" />
+      <workItem from="1548149938492" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Chiel van Rhee">
       <created>1542816796379</created>
@@ -246,17 +675,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542816796379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit by Chiel van Rhee">
+      <created>1544458761394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544458761394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1353000" />
+    <option name="totallyTimeSpent" value="146284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2932886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -265,15 +701,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936199" weight="0.31914893" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5167785" side_tool="true" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50638014" side_tool="true" weight="0.3304721" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.32765958" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -283,7 +721,42 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936199" weight="0.31914893" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.39858156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50638014" side_tool="true" weight="0.3304721" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.32765958" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -295,11 +768,399 @@
     <MESSAGE value="Commit by Chiel van Rhee" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit by Chiel van Rhee" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/HelloTest/HelloWorldAnonymousClasses.java</url>
+          <line>50</line>
+          <properties class="Weken.C_InterfacesInnerclasses.HelloTest.HelloWorldAnonymousClasses" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/QueueTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Opdrachten/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Iterable/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Iterable/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/InstrumentAnon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/Musician.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/MusicianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/myPig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/PigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Drawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Scaleable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/StaticNested/StaticNested.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/StaticNested/StaticNestedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="52" selection-start-line="47" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/ToDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="110" selection-start-line="13" selection-start-column="110" selection-end-line="13" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Personen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/AnonInner/AnonInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/AnonInner/AnonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/OuterInner/InnerOutertests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/OuterInner/OuterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Veelhoek/Veelhoek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Veelhoek/Vierkant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/TestPiloten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Tijd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Vorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/TestVorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Piramide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
