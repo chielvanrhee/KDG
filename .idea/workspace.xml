@@ -1,73 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="Commit by Chiel van Rhee">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lang/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/LoadGenerator/Load.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/Continent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/TestContinent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Leden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Lid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Soort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/TestLeden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/AutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/CoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/GeboorteTijden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Bewerkingen/TestBewerkingen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/FibonacciException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/SteenPapierSchaar/SteenPapierSchaar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Persons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/IntList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/StringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/CoinComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Portomonee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Persons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVier/NavSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Koppel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Persoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/Comperator/CompareObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/TestCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weken/ToDo.java" afterDir="false" />
+    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/AutoTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Contactgegevens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Telefoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/TestContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/TestPiloten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Tijd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/TestSiteBezoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/Tijd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/Verdeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/StringsDemo/StringsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Driehoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Figuren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Rechthoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/TestFiguren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Veelhoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Vierkant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Bol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Piramide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/TestVorm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Vorm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/RondBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/TestBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/VierkantBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/RondBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/TestBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/VierkantBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/Berekenbaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/RondBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/TestBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/VierkantBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/Berekenbaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/RondBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/TestBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/VierkantBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Berekenbaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/RondBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/VierkantBord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Arend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Dier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Dieren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Eierleggend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Struisvogel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/TestDieren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Vliegend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Zwaluw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/HelloTest/HelloWorldAnonymousClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Iterable/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Iterable/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/Getallen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/TestMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/InstrumentAnon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/MusicianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/PigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/myPig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/InnerOutertests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Scaleable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/RunDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/Vermenigvuldigbaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Bewerkingen/Bewerkingen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/DemoLeonardo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObjectTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Personen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Personen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Persoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/CompareObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Opdrachten/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/LoadGenerator/Load.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/Move.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/Continent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Continenten/Continent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/TestContinent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Continenten/TestContinent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/EnumTester/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/EnumTester/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Leden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Leden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Lid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Lid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Soort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Soort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/TestLeden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/TestLeden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/InterfaceTest/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/AutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/InterfaceTest/AutoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/CoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/CoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/DayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Formateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/LocalTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/GeboorteTijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/GeboorteTijden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/LokaleTijden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/TestTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/WeeksMoths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Bewerkingen/TestBewerkingen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Bewerkingen/TestBewerkingen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/FibonacciException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/FibonacciException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/SteenPapierSchaar/SteenPapierSchaar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/SteenPapierSchaar/SteenPapierSchaar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Persons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtDrie/Persons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtEen/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtEen/StringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/CoinComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/CoinComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Portomonee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/Portomonee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/HashInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Lottery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtDrie/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Persons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Persons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVier/NavSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVier/NavSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Koppel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Koppel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Persoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Persoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/Comperator/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/CompareObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/TestCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/TestCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Artikel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Mandje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weken/ToDo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,151 +188,8 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2076656823">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="8" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="30" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="31" />
-          <entry key="java" value="24061" />
-          <entry key="txt" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="24061" />
-          <entry key="PLAIN_TEXT" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="BoekOpdrachten" value="1" />
-          <entry key="OpdrachtTien" value="1" />
-          <entry key="OpdrachtTwee" value="1" />
-          <entry key="Portomonee" value="1" />
-          <entry key="java" value="279" />
-          <entry key="sql" value="1" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="279" />
-          <entry key="Scratch" value="1" />
-          <entry key="UML" value="4" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/TestPiloten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Tijd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Vorm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/TestVorm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Piramide.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -256,11 +211,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtEen/CustomException.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtEen/Division.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtDrie/Division.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java" />
@@ -311,14 +268,9 @@
         <option value="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" />
         <option value="$PROJECT_DIR$/src/Weken/ToDo.java" />
         <option value="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" />
+        <option value="$PROJECT_DIR$/src/OOTechnieken/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -332,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,165 +298,6 @@
             </path>
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="Contact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="Formule1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="SiteBezoek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="Veelhoek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Overerving" type="462c0819:PsiDirectoryNode" />
-              <item name="Vorm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonInner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="C_InterfacesInnerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="OuterInner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="OpdrachtDrie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="OpdrachtEen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="OpdrachtTwee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="D_ExceptionHandeling" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="OpdrachtVierVijf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KDG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Weken" type="462c0819:PsiDirectoryNode" />
-              <item name="E_Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="BoekOpdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="OpdrachtZeven" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -513,23 +305,24 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547666015614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548163406682" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week5\BoekOpdrachten\OpdrachtZeven" />
-      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week5\BoekOpdrachten\OpdrachtDrie" />
-      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtVierVijf" />
-      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtDrie" />
-      <recent name="C:\Users\User\Repositories\PhpstormProjects\KDG\src\Opdrachten\Week4\BoekOpdrachten\OpdrachtTwee" />
+      <recent name="C:\Users\User\Repositories\StudyProjects\KDG\src\OOTechnieken" />
+      <recent name="C:\Users\User\Repositories\StudyProjects\KDG\src\OOProgrammeren" />
+      <recent name="C:\Users\User\Repositories\StudyProjects\KDG\src\JavaFX\Week6" />
+      <recent name="C:\Users\User\Repositories\StudyProjects\KDG\src\JavaFX\Week5" />
+      <recent name="C:\Users\User\Repositories\StudyProjects\KDG\src\JavaFX\Week4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -546,11 +339,11 @@
   </component>
   <component name="RunManager" selected="Application.Division">
     <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weken.D_ExceptionHandeling.BoekOpdrachten.OpdrachtVierVijf.Division" />
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week4.BoekOpdrachten.OpdrachtVierVijf.Division" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weken.D_ExceptionHandeling.BoekOpdrachten.OpdrachtVierVijf.*" />
+          <option name="PATTERN" value="OOTechnieken.Week4.BoekOpdrachten.OpdrachtVierVijf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -559,11 +352,11 @@
       </method>
     </configuration>
     <configuration name="Formateur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.Formateur" />
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.Formateur" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.*" />
+          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -572,11 +365,11 @@
       </method>
     </configuration>
     <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.LocalTimeTest" />
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.LocalTimeTest" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.OpdrachtEen.*" />
+          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -585,11 +378,11 @@
       </method>
     </configuration>
     <configuration name="LokaleTijden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.Time.LokaleTijden" />
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.Time.LokaleTijden" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.Time.*" />
+          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -598,11 +391,11 @@
       </method>
     </configuration>
     <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weken.B_EnumDatumDebug.Opdrachten.Time.TestTime" />
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.Time.TestTime" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weken.B_EnumDatumDebug.Opdrachten.Time.*" />
+          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,7 +459,12 @@
       <workItem from="1547648359087" duration="2847000" />
       <workItem from="1547655034015" duration="1282000" />
       <workItem from="1547657595682" duration="3764000" />
-      <workItem from="1548149938492" duration="13000" />
+      <workItem from="1548149938492" duration="222000" />
+      <workItem from="1548151161256" duration="38000" />
+      <workItem from="1548152317671" duration="32000" />
+      <workItem from="1548158179678" duration="221000" />
+      <workItem from="1548159095108" duration="47000" />
+      <workItem from="1548159502216" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Chiel van Rhee">
       <created>1542816796379</created>
@@ -682,17 +480,23 @@
       <option name="project" value="LOCAL" />
       <updated>1544458761394</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit by Chiel van Rhee">
+      <created>1548150000616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548150000616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146284000" />
+    <option name="totallyTimeSpent" value="148386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -712,6 +516,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.32765958" />
       <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -723,6 +528,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Flutter Inspector" order="9" />
       <window_info anchor="right" id="Flutter Outline" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
@@ -761,9 +567,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit by Chiel van Rhee" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit by Chiel van Rhee" />
@@ -772,33 +575,33 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/HelloTest/HelloWorldAnonymousClasses.java</url>
+          <url>file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/HelloTest/HelloWorldAnonymousClasses.java</url>
           <line>50</line>
-          <properties class="Weken.C_InterfacesInnerclasses.HelloTest.HelloWorldAnonymousClasses" method="main">
+          <properties class="OOTechnieken.Weken.C_InterfacesInnerclasses.HelloTest.HelloWorldAnonymousClasses" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <url>file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Person.java</url>
           <line>77</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <url>file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Person.java</url>
           <line>76</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java</url>
+          <url>file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Person.java</url>
           <line>78</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/QueueTest.java</url>
+          <url>file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/QueueTest.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="6" />
@@ -807,360 +610,413 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Iterable/CollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/MusicianTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Iterable/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/myPig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/InstrumentAnon.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/PigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/Pig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/Musician.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Musician/MusicianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/myPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/PigTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Opdrachten/PigsCanFly/Pig.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Drawable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Drawing.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/Scale/Scaleable.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Scaleable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/StaticNested/StaticNested.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNested.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/StaticNested/StaticNestedTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNestedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Artikel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="52" selection-start-line="47" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Mandje.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/LokaleTijden.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtDrie/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/TestTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/ToDo.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Weken/ToDo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/AgeComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/WeeksMoths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Day.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/DayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Formateur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="110" selection-start-line="13" selection-start-column="110" selection-end-line="13" selection-end-column="110" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/LocalTimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Personen.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Personen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="37" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/AnonInner/AnonInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/AnonInner/AnonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/OuterInner/InnerOutertests.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/InnerOutertests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/C_InterfacesInnerclasses/OuterInner/OuterClass.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/OuterClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Veelhoek/Veelhoek.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Veelhoek.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Veelhoek/Vierkant.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Vierkant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/TestPiloten.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/TestPiloten.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloten.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Piloot.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloten.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Formule1/Tijd.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Vorm.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Tijd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Vorm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/TestVorm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/A_Overerving/Vorm/Piramide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java">
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/TestVorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Piramide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/lang/annotations.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://MODULES/mdl-KDG">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-KDG</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">mdl-KDG</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-299.5" y="-73.0" />
+          <SelectedNodes>
+            <node>mdl-KDG</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/User/Repositories/StudyProjects/KDG/.idea">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/.idea</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="591.5" y="327.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Overview</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">JavaFX</node>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">OOTechnieken</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">OOProgrammeren</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="222.5" y="236.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
