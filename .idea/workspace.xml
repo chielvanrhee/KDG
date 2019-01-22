@@ -2,170 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/AutoTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Auto/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Contactgegevens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/Telefoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Contact/TestContact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Piloten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/TestPiloten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Formule1/Tijd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/TestSiteBezoek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/Tijd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/SiteBezoek/Verdeling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/StringsDemo/StringsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Driehoek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Figuren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Rechthoek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/TestFiguren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Veelhoek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Veelhoek/Vierkant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Bol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Piramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/TestVorm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/SiteOpdrachten/Vorm/Vorm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/AnonInner/AnonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/Bord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/RondBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/TestBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Bord/VierkantBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/Bord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/RondBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/TestBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordAbstract/VierkantBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/Berekenbaar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/Bord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/RondBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/TestBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterface/VierkantBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/Berekenbaar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/Bord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/RondBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/TestBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceAbstract/VierkantBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Berekenbaar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Bord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/RondBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/BordInterfaceDefault/VierkantBord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Arend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Dier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Dieren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Eierleggend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Struisvogel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/TestDieren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Vliegend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Dieren/Zwaluw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/HelloTest/HelloWorldAnonymousClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Iterable/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Iterable/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/Getallen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/TestMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/InstrumentAnon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/Musician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/MusicianTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/PigTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/myPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/InnerOutertests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/OuterInner/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Scaleable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Scale/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/RunDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Vermenigvuldigen/Vermenigvuldigbaar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtDrie/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Bewerkingen/Bewerkingen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/DemoLeonardo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/SimpleObjectTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Personen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Personen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/Persoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/CompareObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNestedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game/LoadGenerator/Load.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game/Move.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game/Pokemon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/Continent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Continenten/Continent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Continenten/TestContinent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Continenten/TestContinent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/EnumTester/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/EnumTester/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/EnumTester/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Leden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Leden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Lid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Lid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/Soort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/Soort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Leden/TestLeden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week2/SiteOpdrachten/Leden/TestLeden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/InterfaceTest/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/InterfaceTest/AutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/InterfaceTest/AutoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/CoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/CoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Day.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/DayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/DayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Formateur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/LocalTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/LocalTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEen/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/OpdrachtEenWrappers/OpdrachtEenWrappers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/GeboorteTijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/GeboorteTijden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/LokaleTijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/LokaleTijden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/TestTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/TestTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/Time/WeeksMoths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week1/BoekOpdrachten/Time/WeeksMoths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtDrie/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtEen/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtEen/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtTwee/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtVierVijf/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Bewerkingen/TestBewerkingen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Bewerkingen/TestBewerkingen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/Fibonacci/FibonacciException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/Fibonacci/FibonacciException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/D_ExceptionHandeling/Siteopdrachten/SteenPapierSchaar/SteenPapierSchaar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week4/SiteOpdrachten/SteenPapierSchaar/SteenPapierSchaar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtDrie/Persons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtDrie/Persons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtEen/IntList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtEen/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtEen/StringList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/CoinComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/CoinComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTien/Portomonee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTien/Portomonee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/HashInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/HashSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Lottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtDrie/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtTwee/Persons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtTwee/Persons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVier/NavSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVier/NavSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtVijf/BurgerOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Koppel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Koppel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZes/Persoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZes/Persoon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/AgeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/OpdrachtZeven/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/Comperator/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/Comperator/CompareObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/E_Collections/BoekOpdrachten/Test/TestCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/Test/TestCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/F_Collections2/SiteOpdrachten/OpdrachtSet/Mandje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOTechnieken/Week6/SiteOpdrachten/OpdrachtSet/Mandje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weken/ToDo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -311,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548163406682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548163937463" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -337,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Division">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week4.BoekOpdrachten.OpdrachtVierVijf.Division" />
       <module name="KDG" />
@@ -364,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.LocalTimeTest" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.HelloWorld.HelloWorld" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.*" />
+          <option name="PATTERN" value="Week1.HelloWorld.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LokaleTijden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.Time.LokaleTijden" />
+    <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.LocalTimeTest" />
       <module name="KDG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.Time.*" />
+          <option name="PATTERN" value="OOTechnieken.Week1.BoekOpdrachten.OpdrachtEen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LokaleTijden" />
       <item itemvalue="Application.Formateur" />
       <item itemvalue="Application.LocalTimeTest" />
       <item itemvalue="Application.TestTime" />
       <item itemvalue="Application.Division" />
+      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Division" />
         <item itemvalue="Application.TestTime" />
         <item itemvalue="Application.LocalTimeTest" />
         <item itemvalue="Application.Formateur" />
-        <item itemvalue="Application.LokaleTijden" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +303,7 @@
       <workItem from="1548152317671" duration="32000" />
       <workItem from="1548158179678" duration="221000" />
       <workItem from="1548159095108" duration="47000" />
-      <workItem from="1548159502216" duration="1555000" />
+      <workItem from="1548159502216" duration="1999000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Chiel van Rhee">
       <created>1542816796379</created>
@@ -487,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548150000616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit by Chiel van Rhee">
+      <created>1548163438224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548163438224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148386000" />
+    <option name="totallyTimeSpent" value="148830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
