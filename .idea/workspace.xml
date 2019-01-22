@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/MinMax/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/StaticNested/StaticNestedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df6179a0-8f46-4bfb-92e7-2561b7ffde0b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +24,26 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OOProgrammeren/Week1/SiteOpdrachten/HelloWorld/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OOProgrammeren/Week1/SiteOpdrachten/HogerLager/HogerLager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +64,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="chielvanrhee &lt;chielvanrhee@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
@@ -57,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtEen/Division.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtDrie/Division.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtVierVijf/Division.java" />
         <option value="$PROJECT_DIR$/src/Opdrachten/Week4/BoekOpdrachten/OpdrachtVierVijf/CustomException.java" />
@@ -108,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/Weken/ToDo.java" />
         <option value="$PROJECT_DIR$/src/Weken/B_EnumDatumDebug/Opdrachten/OpdrachtEen/Formateur.java" />
         <option value="$PROJECT_DIR$/src/OOTechnieken/Weken/D_ExceptionHandeling/BoekOpdrachten/OpdrachtTwee/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/OOProgrammeren/Week1/SiteOpdrachten/HogerLager/HogerLager.java" />
       </list>
     </option>
   </component>
@@ -117,6 +137,7 @@
     <option name="width" value="1380" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
@@ -137,20 +158,33 @@
             </path>
             <path>
               <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOProgrammeren" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KDG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOProgrammeren" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KDG" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548163937463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548164390065" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -304,6 +338,7 @@
       <workItem from="1548158179678" duration="221000" />
       <workItem from="1548159095108" duration="47000" />
       <workItem from="1548159502216" duration="1999000" />
+      <workItem from="1548163864822" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Chiel van Rhee">
       <created>1542816796379</created>
@@ -333,16 +368,23 @@
       <option name="project" value="LOCAL" />
       <updated>1548163438224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit by Chiel van Rhee">
+      <created>1548164127541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548164127541</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148830000" />
+    <option name="totallyTimeSpent" value="149234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -351,7 +393,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936199" weight="0.31914893" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936199" visible="true" weight="0.3186969" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,20 +498,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Musician/MusicianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/myPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week3/SiteOpdrachten/Opdrachten/PigsCanFly/PigTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -568,13 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Weken/ToDo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Weken/ToDo.java" />
     <entry file="file://$PROJECT_DIR$/src/OOTechnieken/Week5/BoekOpdrachten/OpdrachtZeven/AgeComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -798,7 +820,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-299.5" y="-73.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-299.0" y="-73.0" />
           <SelectedNodes>
             <node>mdl-KDG</node>
           </SelectedNodes>
@@ -806,6 +828,7 @@
             <Category>Libraries</Category>
             <Category>Test dependencies</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
@@ -817,11 +840,12 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="591.5" y="327.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="592.0" y="328.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Overview</VISIBILITY>
         </state>
       </provider>
@@ -852,7 +876,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="222.5" y="236.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="223.0" y="237.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -863,6 +887,20 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOProgrammeren/Week1/SiteOpdrachten/HelloWorld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOProgrammeren/Week1/SiteOpdrachten/HogerLager/HogerLager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
